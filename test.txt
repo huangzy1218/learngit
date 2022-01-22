@@ -3,4 +3,4 @@ Hello, Git
 Hello, program.
 Hello, C.
 Hello, C ++.
-Creating a new branch is quick & simple.
+Creating a new branch is quick and simple.
